@@ -1,4 +1,4 @@
-This repository contains MatLab code implementing the **spatial quantile function-on scalar regression** presented in the following paper:
+This repository contains Matlab code implementing the **spatial quantile function-on scalar regression** presented in the following paper:
 
 Zhang, Zhengwu, et al. "High-Dimensional Spatial Quantile Function-on-Scalar Regression." *Journal of the American Statistical Association* (2021): 1-37.
 
