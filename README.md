@@ -6,7 +6,7 @@ Zhang, Zhengwu, Xiao Wang, Linglong Kong, and Hongtu Zhu. "High-Dimensional Spat
 
 - ```datasimulation_1D.m``` and ```datasimulation_1D_noise.m``` contain code for 1D data simulation;
 
-- ```simulation_primdual_copula_1D.m``` contains code for implementing all proposed algorithms in the paper;
+- ```simulation_primdual_copula_1D.m``` contains code for implementing all proposed algorithms in the paper with simulated data;
 - ```realdata_1D_marginal_quantile_regression``` contains code for reproducing Figure 6 in the paper. 
 
 
