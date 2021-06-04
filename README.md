@@ -4,7 +4,7 @@ Zhang, Zhengwu, et al. "High-Dimensional Spatial Quantile Function-on-Scalar Reg
 
 
 
-- ```datasimulation_1D.m``` and ```datasimulation_1D_noise.m``` contains code for 1D data simulation;
+- ```datasimulation_1D.m``` and ```datasimulation_1D_noise.m``` contain code for 1D data simulation;
 
 - ```simulation_primdual_copula_1D.m``` contains code for implementing all proposed algorithms in the paper;
 - ```realdata_1D_marginal_quantile_regression``` contains code for reproducing Figure 6 in the paper. 
